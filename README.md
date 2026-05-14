@@ -97,9 +97,9 @@ Client:
 
 ## PROGRAM :
 CLIENT :
-```
 Developed by : MENAKA M S
 Register Number : 212225040232
+```
 import socket
 from datetime import datetime
 s=socket.socket()
@@ -115,10 +115,9 @@ print(ack)
 c.close()
 ```
 SERVER :
-```
 Developed by : MENAKA M S
 Register Number : 212225040232
-
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
