@@ -63,7 +63,6 @@ Client-server chat applications are versatile tools that facilitate real-time co
 Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
 ## Algorithm
 Server:
-
 1.Create a server socket and bind it to port.
 2.Listen for new connection and when a connection arrives, accept it.
 3.Send server‟s date and time to the client.
@@ -73,7 +72,6 @@ Server:
 7.Close all streams.
 8.Close the server socket.
 9.Stop.
-
 Client:
 1.Create a client socket and connect it to the server‟s port number.
 2.Retrieve its own IP address using built-in function.
@@ -81,9 +79,9 @@ Client:
 4.Display the date & time sent by the server.
 5.Close the input and output streams.
 6.Close the client socket.
-7.Stop.## PROGRAM :
+7.Stop.
+## PROGRAM :
 CLIENT :
-
 Developed by : MENAKA M S
 Register Number : 212225040232
 ```
@@ -102,7 +100,6 @@ print(ack)
 c.close()
 ```
 SERVER :
-
 Developed by : MENAKA M S
 Register Number : 212225040232
 ```
