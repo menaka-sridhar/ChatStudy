@@ -111,6 +111,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## OUTPUT:
-<img width="1920" height="1200" alt="Screenshot 2026-05-14 172839" src="https://github.com/user-attachments/assets/2a872842-5ca3-4ca7-b877-8fcf39ba29e5" />
+<img width="1536" height="530" alt="image" src="https://github.com/user-attachments/assets/a37cda8c-8238-491a-a5cf-8c58470e5008" />
+
 ## Result:
 Thus the study on Client Server Chat Applications has been performed
