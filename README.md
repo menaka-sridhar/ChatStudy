@@ -97,7 +97,9 @@ Client:
 
 ## PROGRAM :
 CLIENT :
+
 Developed by : MENAKA M S
+
 Register Number : 212225040232
 ```
 import socket
@@ -115,7 +117,9 @@ print(ack)
 c.close()
 ```
 SERVER :
+
 Developed by : MENAKA M S
+
 Register Number : 212225040232
 ```
 import socket
